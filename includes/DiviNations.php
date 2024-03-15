@@ -27,7 +27,8 @@ class DNE_DiviNations extends DiviExtension {
 	 *
 	 * @var string
 	 */
-	public $version = '1.0.0';
+	// public $version = DNE_DIVI_NATIONS_PLUGIN_VERSION;
+	public $version = '1.1.1';
 
 	/**
 	 * DNE_DiviNations constructor.
